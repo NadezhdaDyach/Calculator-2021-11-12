@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_operation_text">20sp</dimen>
+    <dimen name="button_digits_text">30sp</dimen>
+    <dimen name="button_margin">1dp</dimen>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button_percent_name">%</string>
+    <string name="button_CE_name">CE</string>
+    <string name="button_C_name">C</string>
+    <string name="button_backspace_name">BS</string>
+    <string name="button_fraction_name">1/x</string>
+    <string name="button_sqr_name">sqr</string>
+    <string name="button_sqrt_name">sqrt</string>
+    <string name="button_division_name">/</string>
+    <string name="button_1_name">1</string>
+    <string name="button_2_name">2</string>
+    <string name="button_3_name">3</string>
+    <string name="button_multiply_name">*</string>
+    <string name="button_4_name">4</string>
+    <string name="button_5_name">5</string>
+    <string name="button_6_name">6</string>
+    <string name="button_subtraction_name">-</string>
+    <string name="button_7_name">7</string>
+    <string name="button_8_name">8</string>
+    <string name="button_9_name">9</string>
+    <string name="button_addition_name">+</string>
+    <string name="button_sign_name">+/-</string>
+    <string name="button_0_name">0</string>
+    <string name="button_point_name">,</string>
+    <string name="button_result_name">=</string>
+
+</resources>
