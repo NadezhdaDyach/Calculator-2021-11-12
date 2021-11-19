@@ -6,11 +6,26 @@
     android:layout_height="match_parent"
     android:background="@drawable/calculator"
     tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textAlignment="textEnd"
+        app:layout_constraintBottom_toTopOf="@+id/include"
+        app:layout_constraintEnd_toEndOf="parent"
+        style="@style/MyStyle"/>
+
+
     <include
+        android:id="@+id/include"
         layout="@layout/activity_main_keyboard"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
         tools:layout_editor_absoluteX="0dp" />
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -3,4 +3,7 @@
     <dimen name="button_operation_text">20sp</dimen>
     <dimen name="button_digits_text">30sp</dimen>
     <dimen name="button_margin">1dp</dimen>
+    <dimen name="num_size">50sp</dimen>
+    <dimen name="button_weight">1</dimen>
+    <dimen name="layout_marginBottom">10dp</dimen>
 </resources>
