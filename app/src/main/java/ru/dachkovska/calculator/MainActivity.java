@@ -14,7 +14,7 @@ import static ru.dachkovska.calculator.ResultStorage.num;
 import static ru.dachkovska.calculator.ResultStorage.operator;
 import static ru.dachkovska.calculator.ResultStorage.operators;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener{
+public class MainActivity extends BaseActivity implements View.OnClickListener{
 
     Button button_1, button_2, button_3,button_4,button_5,button_6, button_7,button_8,button_9,button_0;
     Button button_percent,button_CE,button_C,button_backspace,button_fraction,button_sqr,button_sqrt;

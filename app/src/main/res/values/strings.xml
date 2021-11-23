@@ -24,5 +24,7 @@
     <string name="button_0_name">0</string>
     <string name="button_point_name">,</string>
     <string name="button_result_name">=</string>
-
+    <string name="material_light">Material light</string>
+    <string name="material_dark">Material dark</string>
+    <string name="select_an_application_theme">Select an application theme:</string>
 </resources>
