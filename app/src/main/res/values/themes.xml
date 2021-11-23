@@ -13,4 +13,21 @@
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name="MyStyle" parent="Theme.Calculator">
+        <item name="android:textSize">@dimen/num_size</item>
+        <item name="android:layout_marginBottom">@dimen/layout_marginBottom</item>
+        <item name="android:fontFamily">bond</item>
+        <item name="android:textAlignment">textEnd</item>
+    </style>
+
+    <style name="AppThemeLight" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">#e91e63</item>
+        <item name="colorPrimaryDark">#b0003a</item>
+        <item name="colorAccent">#ff6090</item>
+    </style>
+
+    <style name="AppThemeDark" parent="Theme.MaterialComponents"/>
+
+
 </resources>
